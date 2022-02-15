@@ -1288,7 +1288,7 @@ Year,City,Country,Cost of Living,Rent,Cost of Living + Rent,Groceries,Restaurant
 2018,Fresno, United States,72.36,30.94,52.38,72.51,75.89,110.71
 2018,Buffalo, United States,72.15,28.94,51.31,69.14,72.72,120.23
 2018,Shreveport, United States,72.07,25.24,49.48,78.42,64.04,76.03
-2018,Windsor,,72,21.38,47.59,63.4,67.16,118.85
+2018,Windsor,Canada,72,21.38,47.59,63.4,67.16,118.85
 2018,Nanaimo, Canada,71.9,25.11,49.33,78.03,63.87,99.07
 2018,Nashville, United States,71.88,47.73,60.23,74.28,69.38,125.4
 2018,Aachen, Germany,71.81,24.48,48.99,57.78,64.67,128.79
